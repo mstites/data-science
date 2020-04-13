@@ -13,6 +13,8 @@ dta
 # Data types
 *.dta
 *.zip
+*.hdf5
+*.csv
 
 pyc
 
